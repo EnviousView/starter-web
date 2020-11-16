@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Calvin Alejandro -- alejandrocalgab@gmail.com
 
 # THANKS
 
